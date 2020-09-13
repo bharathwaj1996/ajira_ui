@@ -1,0 +1,66 @@
+.order-border{
+    background: #FFFFFF;
+border: 1px solid #333333;
+box-sizing: border-box;
+width: 784px;
+height: 757px;
+}
+.order-title{
+    margin-left: 35px;
+    margin-top: 32px;
+    width: 117px;
+height: 35px;
+font-weight: 600;
+font-size: 24px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #777777;
+
+}
+.order-body{
+    margin-top: 30px;
+    width: 714px;
+    height: 132px;
+    margin-left: 46px;
+}
+.order-pic{
+    width: 80px;
+    height: 80px;
+    float: left;
+    display: inline-block;
+}
+.order-det{
+    display: inline-block;
+    float: right;
+    width: 600px;
+    height: 100px;
+    border-bottom: 1px solid #DDDDDD;
+
+}
+.order-highlight{
+    font-family: Jost;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 23px;
+
+color: #333333;
+}
+.order-det-text{
+    font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+
+color: #777777;
+
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}

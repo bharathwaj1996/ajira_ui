@@ -1,0 +1,193 @@
+.App {
+  text-align: center;
+  font-family: Jost;
+  font-size: 14px;
+  background-color:  #E5E5E5;
+}
+.forMe{
+  position: absolute;
+width: 42px;
+height: 20px;
+left: 244.11px;
+top: 25px;
+color: #E10000;
+}
+.jeans{
+  position: absolute;
+width: 31px;
+height: 20px;
+left: 362.85px;
+top: 25px;
+color: #444444;
+}
+.shirts{
+  position: absolute;
+width: 33px;
+height: 20px;
+left: 459.77px;
+top: 25px;
+color: #444444;
+}
+.t-shirts{
+  position: absolute;
+width: 72px;
+height: 20px;
+left: 559.04px;
+top: 25px;
+color: #444444;
+}
+.trousers{
+  position: absolute;
+width: 49px;
+height: 20px;
+left: 667.86px;
+top: 25px;
+color: #444444;
+}
+.jaggers{
+  position: absolute;
+width: 45px;
+height: 20px;
+left: 784.69px;
+top: 25px;
+color: #444444;
+}
+.shorts{
+  position: absolute;
+width: 37px;
+height: 20px;
+left: 895.77px;
+top: 25px;
+color: #444444;
+}
+.iconBar{
+  position: absolute;
+left: 80%;
+top: 23px;
+bottom: 23px;
+width: 200px;
+}
+.search{
+ 
+width: 42px;
+height: 24px;
+float: left;
+}
+.cart{
+  
+  width: 42px;
+height: 24px;
+float: left;
+  
+}
+.profile{
+ 
+  width: 42px;
+  height: 24px;
+  float: left;
+  
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  position: absolute;
+  width: 1280px;
+  height: 70px;
+  left: 0px;
+  top: 0px;
+  
+  background: #FFFFFF;
+  border: 1px solid #DDDDDD;
+  box-sizing: border-box;
+
+  font-size: 14px;
+line-height: 20px;
+}
+
+.app-footer{
+  position: absolute;
+width: 1280px;
+height: 360px;
+left: 0px;
+top: 2767px;
+  background: #333333;
+}
+.content-box{
+  position: absolute;
+width: 896px;
+height: 226px;
+left: 254px;
+top: 2829px;
+}
+.logo-footer{
+ /* margin-top:62px; */
+ 
+ display: inline;
+
+}
+.links{
+ 
+  text-align: left;
+  display:inline;
+  line-height: 24px;
+}
+
+.link-element{
+  display: block !important;
+}
+.footer-span{
+  margin-top: 62px;
+  margin-right:350px;
+  display: inline-block;
+  line-height: 24px;
+}
+.footer-span1{
+  margin-top: 62px;
+  margin-right: 200px;
+  display: inline-block;
+  line-height: 24px;
+}
+.footer-span3{
+  margin-top: 62px;
+  display: inline-block;
+  line-height: 24px;
+}
+
+.links div{
+  display: block;
+  width: max-content;
+  line-height: 24px;
+}
+li{
+  list-style-type: none;
+  line-height: 24px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.appLgo{
+  position: absolute;
+width: 103px;
+height: 70px;
+left: 53px;
+top: 0px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,101 @@
+.title-div{
+    width:103px;
+    height: 17px;
+    margin-left: 60px;
+    padding-top: 104px;
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 17px;
+
+color: #777777;
+
+}
+.background{
+   
+    background-color: #E5E5E5;
+}
+
+.profileInfo{
+    padding-top: 60px;
+    display: inline-block;
+    width: 376px;
+}
+.profile-picture{
+    margin-left: 67px;
+    margin-bottom: 20px;
+    width: 298px;
+    height:72px;
+    display: flex;
+    justify-content: center;
+
+}
+tr{
+    vertical-align: top;
+}
+.center-align{
+    padding-top: 26.5px;
+    font-family: Jost;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+}
+
+.mailTextColor{
+    padding-top: 26.5px;
+    font-family: Jost;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+
+/* Gray */
+
+color: #9B9B9B;
+}
+
+.cart1{
+    padding-top: 60px;;
+    display: inline-block;
+    width: 784px;
+    height: auto;
+}
+
+.option-bar{
+    width: 301px;
+    height: 176px;
+    margin-left: 67px;
+}
+/* .option-bar div{
+    display: flex;
+    float: left;
+} */
+.option-bar div span{
+    font-weight: bold;
+    color: #222222;
+}
+.option-bar p{
+    float: left;
+    margin: 0;
+}
+.border-class{
+    /* height: 60px; */
+    border-top: 1px solid black;
+    /* float: left; */
+}
+.main-option{
+    float: left;
+    height: auto;
+}
+.profile-footer{
+    height: 360px;
+    background: #333333;
+}
+table{
+    margin-bottom: 150px;
+}

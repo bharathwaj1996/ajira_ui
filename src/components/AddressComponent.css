@@ -1,0 +1,53 @@
+.address-box{
+    width: 784px;
+height: 530px;
+background: #FFFFFF;
+border: 1px solid #333333;
+box-sizing: border-box;
+}
+
+.address-box-title{
+    margin-top: 36px;
+    margin-left: 54px;
+    font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 35px;
+/* identical to box height */
+width: 131.03px;
+height: 35px;
+
+color: #333333;
+
+}
+.margin-class{
+    margin-right: 10px;
+}
+.form-class{
+    margin-top: 31px;
+    margin-left: 54px;
+    margin-right: 54px;
+    margin-bottom:43px;
+}
+.input-width{
+    width: 210.5px;
+}
+.input-width1{
+    width: 431px;
+}
+.address-button{
+    width: 240px;
+height: 50px;
+font-family: Jost;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 23px;
+
+color: #FFFFFF;
+background: #333333;
+float: right;
+margin-right: 113px;
+
+}

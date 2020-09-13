@@ -1,0 +1,227 @@
+.main-div{
+    margin-top: 76px;
+}
+.second-div{
+    background-image: url('../assets/105567013_161594148752707_5480959666164448316_n@2x 1.png');
+    width: 635px;
+    height: 740px;
+}
+.second-div .text{
+    position: absolute;
+    width: 171px;
+    height: 29px;
+    left: 232px;
+    top: 1092px;
+    background-color:  #E5E5E5;
+    line-height: 29px;
+    
+}
+.second-div .text1{
+    position: absolute;
+    width: 160px;
+    height: 29px;
+    left: 238px;
+    top: 1136px;
+    background-color:  #E5E5E5;
+    line-height: 29px;
+    
+
+}
+
+.second-div div span{
+    color: #E10000;
+}
+.third{
+    background-image: url('../assets/106480627_1412219725629450_480051060065323581_n@2x 1.svg');
+    position: absolute;
+width: 635px;
+height: 365px;
+left: 645px;
+top: 757px;
+}
+.third span{
+    color: #E10000;
+}
+.textThree{
+    position: absolute;
+    right: auto;
+    top: 45%;
+    left: 40%;
+    bottom: auto;
+    margin: auto;
+    background-color: #E5E5E5;
+    width: 162px;
+    height: 29px;
+    line-height: 29px;
+}
+
+.fourth{
+    background-image: url('../assets/106480627_1412219725629450_480051060065323581_n@2x\ 2.png');
+    position: absolute;
+width: 635px;
+height: 365px;
+left: 645px;
+top: 1132px;
+
+}
+.fourth span{
+     color: #E10000;
+}
+.text-four{
+    position: absolute;
+    left: 45%;
+    right: auto;
+    top: 43%;
+    bottom: auto;
+    line-height: 29px;
+    background-color: #E5E5E5;
+}
+.collections{
+    position: absolute;
+width: 1160px;
+height: 442px;
+left: 60px;
+top: 1558px;
+margin-top: 50px;;
+border-top: 1px solid #DDDDDD;
+}
+.collection-title{
+    
+    font-family: BankGothic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: #333333;
+}
+.pic{
+width: 222px;
+height: 318px;
+background-image: url('../assets/GQ-India-jignesh-Jhaveri-denim-top@2x 1.png');
+display: inline-block;
+margin-right:50px ;
+}
+.info{
+    margin-top: 320px;;
+}
+.highlight{
+    font-size: 13px;
+line-height: 19px;
+    color: #E10000;
+}
+.testimonials{
+    display: block;
+    margin-top: 550px;
+    width: 1280px;
+    height: 360px;
+}
+.test1{
+display: inline-block;
+margin-right: 45px;
+margin-top: 25px;
+
+}
+.test2{
+    display: inline-block;
+    margin-right: 45px;
+    margin-top: 25px;
+    }
+    .test3{
+        display: inline-block;
+        margin-top: 25px;
+        
+        }
+
+.testText{
+    font-family: 'BankGothic';
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 25px;
+
+color: #333333;
+}
+.card{
+    width: 357px;
+    height: 170px;
+}
+.cardBody{
+    width: 329px;
+height: 160px;
+
+background: #FFFFFF;
+box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.08);
+border-radius: 6px;
+}
+.pic1{
+    width: 50px;
+height: 50px;
+border-radius: 43px;
+background-image: url('../assets/boy-5179984_1920 1.png');
+margin-bottom: 5px;
+}
+.floatName{
+    float: left;
+    margin-left: 15px;
+}
+.floatRating{
+    float: right;
+    margin-right: 15px;
+}
+.reviewText{
+    margin: 10px;
+    font-family: Jost;
+font-style: italic;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+
+color: #707070;
+
+}
+.subscribe{
+    width: 1280px;
+height: 360px;
+background-image: url('../assets/72486837_407934910129566_1329467130451293925_n@2x\ 1.png');
+background-repeat: no-repeat;
+}
+.subscribe-header{
+    padding-top: 109px;
+    font-family: Jost;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.subscribe-sub-text{
+    font-family: 'Jost';
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.input-field{
+    width: 495px;
+height: 40px;
+margin-right: 5px;
+}
+
+button{
+    width: 125px;
+height: 40px;
+background: #E10000;
+color: white;
+}
+
